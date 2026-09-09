@@ -1,0 +1,17 @@
+{
+  "name": "genpark-lu-factorization-partial-pivoting-lup-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent LU Factorization with Partial Pivoting (LUP) Matrix Inversion & Linear Solver",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "linear-algebra",
+    "lu-decomposition",
+    "partial-pivoting",
+    "gaussian-elimination"
+  ]
+}
